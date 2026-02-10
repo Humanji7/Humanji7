@@ -1,4 +1,4 @@
-I design and ship software products. AI agents write the code.
+Somewhere between human ideas and machine code, products happen.
 
 ### Projects
 
